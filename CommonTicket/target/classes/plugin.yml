@@ -1,0 +1,8 @@
+name: CommonTicket
+version: 2023-0.1
+main: dev.vuhp.common.Ticket
+author: Vuhp and UniXSystem Developing TM
+website: unixsystem.com.ar
+
+commands:
+  ticket:
